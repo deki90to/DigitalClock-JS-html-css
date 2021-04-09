@@ -1,0 +1,17 @@
+.clock {
+    background: darkslategray;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.time, .am-pm {
+    font-family: 'RocknRoll One';
+    font-size: 40px;
+    color: white;
+}
+
+.time {
+    font-size: 50px;
+}
